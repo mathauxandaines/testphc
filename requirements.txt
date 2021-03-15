@@ -1,0 +1,4 @@
+lycee
+matplotlib
+networkx
+
